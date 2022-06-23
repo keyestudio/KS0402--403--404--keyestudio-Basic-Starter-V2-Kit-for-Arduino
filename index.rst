@@ -4,7 +4,7 @@
    :caption:KS0402 KS0403 KS0404 keyestudio Basic Starter V2 Kit for Arduino
 
 
-   KS0402.KS0403.KS0404.md
+   KS0402,KS0403,KS0404.md
 
 
 
