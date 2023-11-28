@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Basic Starter V2 Kit for Arduino'
+project = 'Kit for Arduino'
 copyright = 'keyestudio'
 author = 'keyestudio WiKi'
 
